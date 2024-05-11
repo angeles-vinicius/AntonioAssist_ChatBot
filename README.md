@@ -1,7 +1,7 @@
 # AntonioAssist_ChatBot 🤖
 ## - Conectando Gerações: Inclusão Digital do Lar
 
-![Uploading image.png…]()
+<img width="1254" alt="Screenshot 2024-05-11 at 16 34 03" src="https://github.com/angeles-vinicius/AntonioAssist_ChatBot/assets/103529183/ac12f0c3-53db-45c6-9e65-51b894c99678">
 
 
 ### Descrição
