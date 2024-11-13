@@ -27,10 +27,14 @@ O **AntonioAssist** é um chatbot com inteligência artificial (IA) desenvolvido
 
 ### Como Usar
 
-1. **Acesse o site do condomínio.(em desenvolvimento)**
-2. **Inicie uma conversa com o AntonioAssist.**
-3. **Digite sua pergunta ou escolha uma das opções numéricas do menu.**
+1. **Acesse o site do condomínio.(em desenvolvimento),**
+2. **Inicie uma conversa com o AntonioAssist,**
+3. **Digite sua pergunta ou escolha uma das opções numéricas do menu,**
 4. **Para encerrar o atendimento, digite 'FIM'.**
+
+### ---MUITO IMPORTANTE---
+
+## As API Keys foram removidas do código para fins de segurança. :)
 
 ### Principais vantágens de um ChatBot
 
